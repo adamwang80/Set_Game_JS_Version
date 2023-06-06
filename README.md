@@ -1,4 +1,4 @@
-# Team1Project5
+# Set Game (A JavaScript Implementation)
 
 ## In this project, we re-designed the game of set.
 
